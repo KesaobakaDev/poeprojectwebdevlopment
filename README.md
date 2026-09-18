@@ -7,19 +7,19 @@
 ## Folder Structure
 
 POEPROJ/
-├── home.html
-├── About.html
-├── Products&Service.html
-├── Gallery.html
-├── Contact.html
-├── css/
-│   ── style.css          
-├── js/
-│   ── jscript.js
-├── images/
-│    ── (farm images)
-└── readme/
-    ── readme.md
+| home.html
+| About.html
+| Products&Service.html
+| Gallery.html
+| Contact.html
+| css/
+|style.css          
+| js/
+| jscript.js
+|images/
+| (farm images)
+| readme/
+    - readme.md
 ## Pages
  `home.html` | Full-screen auto-sliding hero, intro, product cards |
  `About.html` | History, mission and vision |
